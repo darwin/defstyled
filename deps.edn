@@ -1,0 +1,5 @@
+{:deps
+ {org.clojure/clojure       {:mvn/version "1.10.0-alpha4"}
+  org.clojure/clojurescript {:mvn/version "1.10.238"}
+  org.clojure/core.async    {:mvn/version "0.4.474"}
+  org.roman01la/cljss       {:mvn/version "1.6.2"}}}
